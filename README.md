@@ -1,17 +1,14 @@
 # Lucy Blog
 
-#### 介绍
-我的 BLOG, 露西女神
-
-#### 软件架构
-软件架构说明
+#### Introduce
+Personal BLOG of myself named by my girl lucy, 
 
 
-#### 安装教程
+#### Install step by step
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  npm install  # install dependencies
+2.  npm run server  # start dev server
+3.  npm run deploy  # start deploy blog
 
 #### 使用说明
 
